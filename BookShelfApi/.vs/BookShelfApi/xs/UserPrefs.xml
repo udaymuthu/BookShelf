@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{94260BF6-90F3-4E99-8009-06AD62C0F197}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookShelfApi/Controllers/BookShelfController.cs">
+    <Files>
+      <File FileName="BookShelfApi/Models/Book.cs" Line="8" Column="43" />
+      <File FileName="BookShelfApi/Models/BookContext.cs" Line="12" Column="47" />
+      <File FileName="BookShelfApi/Program.cs" Line="1" Column="1" />
+      <File FileName="BookShelfApi/Startup.cs" Line="37" Column="55" />
+      <File FileName="BookShelfApi/Controllers/BookShelfController.cs" Line="85" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookShelfApi" expanded="True">
+            <Node name="BookShelfApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookShelfController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookShelfApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

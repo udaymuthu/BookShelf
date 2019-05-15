@@ -1,0 +1,11 @@
+/Users/Uday/Projects/TaskManager/TaskManager/bin/Debug/netcoreapp2.2/TaskManager.deps.json
+/Users/Uday/Projects/TaskManager/TaskManager/bin/Debug/netcoreapp2.2/TaskManager.runtimeconfig.json
+/Users/Uday/Projects/TaskManager/TaskManager/bin/Debug/netcoreapp2.2/TaskManager.runtimeconfig.dev.json
+/Users/Uday/Projects/TaskManager/TaskManager/bin/Debug/netcoreapp2.2/TaskManager.dll
+/Users/Uday/Projects/TaskManager/TaskManager/bin/Debug/netcoreapp2.2/TaskManager.pdb
+/Users/Uday/Projects/TaskManager/TaskManager/obj/Debug/netcoreapp2.2/TaskManager.csprojAssemblyReference.cache
+/Users/Uday/Projects/TaskManager/TaskManager/obj/Debug/netcoreapp2.2/TaskManager.csproj.CoreCompileInputs.cache
+/Users/Uday/Projects/TaskManager/TaskManager/obj/Debug/netcoreapp2.2/TaskManager.AssemblyInfoInputs.cache
+/Users/Uday/Projects/TaskManager/TaskManager/obj/Debug/netcoreapp2.2/TaskManager.AssemblyInfo.cs
+/Users/Uday/Projects/TaskManager/TaskManager/obj/Debug/netcoreapp2.2/TaskManager.dll
+/Users/Uday/Projects/TaskManager/TaskManager/obj/Debug/netcoreapp2.2/TaskManager.pdb

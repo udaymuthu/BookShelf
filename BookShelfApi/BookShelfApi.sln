@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShelfApi", "BookShelfApi\BookShelfApi.csproj", "{94260BF6-90F3-4E99-8009-06AD62C0F197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94260BF6-90F3-4E99-8009-06AD62C0F197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94260BF6-90F3-4E99-8009-06AD62C0F197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94260BF6-90F3-4E99-8009-06AD62C0F197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94260BF6-90F3-4E99-8009-06AD62C0F197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

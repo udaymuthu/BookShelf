@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{67D0CD10-7B5F-42D2-885D-03AA4724B66F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskManager/Program.cs">
+    <Files>
+      <File FileName="TaskManager/Program.cs" Line="27" Column="1" />
+      <File FileName="TaskManager/PowerTwo.cs" Line="1" Column="1" />
+      <File FileName="TaskManager/StringReverse.cs" Line="13" Column="10" />
+      <File FileName="TaskManager/StringExtenstion.cs" Line="9" Column="48" />
+      <File FileName="TaskManager/GetOddNumber.cs" Line="6" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskManager" expanded="True">
+            <Node name="TaskManager" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TaskManager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
